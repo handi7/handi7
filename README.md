@@ -39,7 +39,7 @@ I'm a passionate Full Stack Developer with a diverse skill set, specializing in 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=handi7&show_icons=true&hide_border=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=handi7&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=handi7&theme=dark&mode=dayly&type=png)](https://git.io/streak-stats)
 
 ## 🚀 About Me
 I enjoy creating efficient, scalable, and user-friendly web and mobile applications. I have a strong foundation in both frontend and backend technologies, which allows me to work on diverse projects and solve complex challenges.
