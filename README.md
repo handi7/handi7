@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Handi</h1>
+<h1 align="center">Hi there👋, I'm Handi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handi7&label=Profile%20views&color=0e75b6&style=flat" alt="handi7" /> </p>
 
 I'm a passionate Full Stack Developer with a diverse skill set, specializing in building modern web and mobile applications.
@@ -35,9 +35,9 @@ I'm a passionate Full Stack Developer with a diverse skill set, specializing in 
 
 ## 📊 Stack Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=handi7&layout=compact&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats-indol-nu-58.vercel.app/api/top-langs/?username=handi7&layout=compact&hide_border=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=handi7&show_icons=true&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-indol-nu-58.vercel.app/api?username=handi7&show_icons=true&hide_border=true&theme=radical&rank_icon=github)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=handi7&theme=dark&mode=dayly&type=png)](https://git.io/streak-stats)
 
