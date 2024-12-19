@@ -17,6 +17,7 @@ I'm a passionate Full Stack Developer with a diverse skill set, specializing in 
 
 ### **Mobile Framework:**
 - React Native
+- Expo
 
 ### **Backend Frameworks:**
 - Express.js
@@ -32,6 +33,12 @@ I'm a passionate Full Stack Developer with a diverse skill set, specializing in 
 ### **Deployment:**
 - Coolify
 - Jenkins
+
+### **Other Tools:**
+- Git
+- Github
+- TailwindCSS
+
 
 ## 📊 Stack Stats
 
