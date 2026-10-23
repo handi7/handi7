@@ -80,6 +80,6 @@
 ## 📫 Get in touch
 
 - **LinkedIn** — [linkedin.com/in/handi12](https://linkedin.com/in/handi12)
-- **Email** — [handi7.co@gmail.com](mailto:handi7.co@gmail.com)
+- **Email** — [handev.co@gmail.com](mailto:handev.co@gmail.com)
 
 <p align="center"><sub>Open to collaboration — feel free to reach out. 😊</sub></p>
