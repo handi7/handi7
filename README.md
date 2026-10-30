@@ -6,14 +6,16 @@
 </p>
 
 <p align="center">
+  <a href="https://handiani.my.id"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/handi12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:handi7.co@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:handev.co@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.npmjs.com/package/@byhandi/heroui-kit"><img src="https://img.shields.io/npm/v/@byhandi/heroui-kit?style=flat&logo=npm&logoColor=white&label=%40byhandi%2Fheroui-kit&color=CB3837" alt="npm" /></a>
   <img src="https://komarev.com/ghpvc/?username=handi7&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-<!-- TODO Handi: isi baris di bawah ini dengan role & lokasi lo yang sekarang, lalu hapus komentar ini.
-     Contoh: "Currently building internal platforms at <perusahaan> · Jakarta, ID"  -->
+<p align="center">
+  Building open-source, self-hostable tools under <a href="https://github.com/ByHandi"><b>@ByHandi</b></a>
+</p>
 
 ---
 
@@ -21,12 +23,23 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Ostra](https://ostra.byhandi.my.id)** · [`ByHandi/ostra`](https://github.com/ByHandi/ostra) | Self-hosted, S3-compatible object storage with automatic TLS and custom domains per bucket | Garage v2 · Caddy · Go · React |
+| **[Tautree](https://tautree.byhandi.my.id)** · [`ByHandi/tautree`](https://github.com/ByHandi/tautree) | Self-hostable, open-source Linktree alternative with privacy-friendly analytics | Next.js 15 · Prisma 7 · PostgreSQL |
 | **[gaweqr](https://gaweqr.my.id)** · [`qr-generator`](https://github.com/handi7/qr-generator) | QR code generator, live in production | Next.js 16 · React 19 · Tailwind v4 · HeroUI |
 | **[`@byhandi/heroui-kit`](https://github.com/handi7/heroui-kit)** | Published npm package — HeroUI components wired to React Hook Form | TypeScript · HeroUI · RHF |
 | [`nest-prisma-docker`](https://github.com/handi7/nest-prisma-docker) | My NestJS starter: JWT + Google OAuth, RBAC seeders, S3 uploads, Redis, MJML mailer, Zod | NestJS 11 · Prisma 7 · PostgreSQL · Redis · Docker |
 | [`nest-multitenant`](https://github.com/handi7/nest-multitenant) | Multi-tenant NestJS architecture with per-tenant isolation | NestJS · Prisma · Docker |
 | [`area-api`](https://github.com/handi7/area-api) | Indonesian administrative-area API | NestJS · Prisma · Docker |
-| [`fleet-monitoring`](https://fleet-monitoring.vercel.app) | Fleet monitoring & reporting dashboard | Next.js · Tailwind · React Hook Form |
+
+**🧪 Building in public:** [`lontar-cms`](https://github.com/handi7/lontar-cms) — a TypeScript-first headless CMS: define your schema in one config file, get a REST API, admin panel, migrations and types. Runs on Hono. *(pre-alpha)*
+
+## 📱 Shipped apps
+
+| App | What it is | Get it |
+|---|---|---|
+| **Stikerku** | Create, discover and share WhatsApp sticker packs — on-device background removal, cropping, text stickers | [stikerku.my.id](https://stikerku.my.id) |
+| **Kosakata EPS Topik** | Korean vocabulary from the EPS-TOPIK 2024 standard textbook | [Google Play](https://play.google.com/store/apps/details?id=com.handev.eps24) |
+| **Kosakata STB15 EPS Topik** | Korean vocabulary from the 2015 Standard Text Book | [Google Play](https://play.google.com/store/apps/details?id=com.handev.krid15) |
 
 ## 🛠️ Tech I work with
 
@@ -63,11 +76,6 @@
 
 ## 📊 Stats
 
-<!-- NOTE Handi: dua card di bawah ini pakai self-hosted fork lo (github-readme-stats-indol-nu-58).
-     Per hari ini card-nya masih render "Something went wrong!" — regenerate PAT di GitHub,
-     update env var PAT_1 di Vercel, lalu redeploy. Jangan pindah ke instance publik
-     github-readme-stats.vercel.app: instance itu lagi 503 (overloaded). -->
-
 <p align="left">
   <img src="https://github-readme-stats-indol-nu-58.vercel.app/api?username=handi7&show_icons=true&hide_border=true&theme=radical&rank_icon=github" alt="GitHub stats" />
   <img src="https://github-readme-stats-indol-nu-58.vercel.app/api/top-langs/?username=handi7&layout=compact&hide_border=true&theme=radical" alt="Top languages" />
@@ -79,6 +87,7 @@
 
 ## 📫 Get in touch
 
+- **Portfolio** — [handiani.my.id](https://handiani.my.id)
 - **LinkedIn** — [linkedin.com/in/handi12](https://linkedin.com/in/handi12)
 - **Email** — [handev.co@gmail.com](mailto:handev.co@gmail.com)
 
